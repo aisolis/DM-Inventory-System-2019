@@ -1,0 +1,5806 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Disermo Project
+</name>
+</assembly>
+<members>
+<member name="T:Disermo_Project.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.AbrirCamara">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.add_30px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.adertencia">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.Alargado">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.Alargado_2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.banknotes_filled_20px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.BarCerrar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.BarMaxmizar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.BarMinimizar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.BarRestaurar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.borrar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.box_20px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.btnAñadir">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.btnBuscar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.btnCancel">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.btnEliminar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.btnGuardar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.btnReporte">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.calculator_25px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.calendar_20px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.cancel_30px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.clock_20px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.cmrCamara">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.cmrCamara1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.cmrEliminar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.cmrFoto">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.cmrGuardar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.cmrNueva">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.cmrSIG">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.currency_exchange_25px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.delete_30px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.delete_sign_15px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.delete_sign_20px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.exit_20px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.exit_25px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.file_30px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.FONDO">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.GuardarImagen">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.help_20px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.help_25px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.home_20px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.home2_20px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.initiate_money_transfer_filled_20px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.Logo_Cuadrado_BN">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.Logo_Cuadrado_BN2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.logout_rounded_up_20px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.logout_rounded_up_25px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.logout_rounded_up_25px1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.maintenance_20px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.md_5b38cb3b44907">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.md_5b38cb3b449071">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.menu_20px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.move_by_trolley_20px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.NoClima">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.NuevaImagen">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.refund_20px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.request_money_filled_20px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.save_30px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.search_30px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.settings_20px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.settings_25px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.summer_20px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.tumblr_ogi47qqlfI1utgp6co1_400">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.user_male_circle_filled_30_2px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.user_male_circle_filled_30px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.Usuario60">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.web_20px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Disermo_Project.My.Resources.Resources.web_25px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.bajaclienteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.bancosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.combinacionesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.cotizacionesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.credito_proveedoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.defacturasventaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.departamentoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.detallecotizacionesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.Detcredito_proveedoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.detenvioentradaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.DetenviosdesalidaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.detfacturaCompraDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.DetNotascreditoClienteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.DetNotascreditoProveedoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.detperfilDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.detrecibosclienteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.detrecibosproveedoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.envioentradaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.enviosdesalidaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.estadoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.factuasventaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.facturaCompraDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.facturascanceladasclientesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.facturasmorosasvendedorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.grupoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.municipioDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.notasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.NotascreditoClientesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.NotascreditoProveedoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.perfilDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.productosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.proveedorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.recibosclienteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.recibosproveedoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.regionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.rutaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.subgerenteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.subrutaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.supervisorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.tabla_clientesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.tipo_clienteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.transporteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.usuariosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.vendedorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.bajaclienteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.bancosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.combinacionesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.cotizacionesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.credito_proveedoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.defacturasventaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.departamentoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.detallecotizacionesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.Detcredito_proveedoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.detenvioentradaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.DetenviosdesalidaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.detfacturaCompraRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.DetNotascreditoClienteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.DetNotascreditoProveedoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.detperfilRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.detrecibosclienteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.detrecibosproveedoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.envioentradaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.enviosdesalidaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.estadoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.factuasventaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.facturaCompraRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.facturascanceladasclientesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.facturasmorosasvendedorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.grupoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.municipioRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.notasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.NotascreditoClientesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.NotascreditoProveedoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.perfilRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.productosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.proveedorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.recibosclienteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.recibosproveedoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.regionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.rutaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.subgerenteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.subrutaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.supervisorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.tabla_clientesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.tipo_clienteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.transporteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.usuariosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.vendedorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.bajaclienteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.bancosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.combinacionesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.cotizacionesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.credito_proveedoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.defacturasventaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.departamentoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.detallecotizacionesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.Detcredito_proveedoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.detenvioentradaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.DetenviosdesalidaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.detfacturaCompraRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.DetNotascreditoClienteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.DetNotascreditoProveedoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.detperfilRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.detrecibosclienteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.detrecibosproveedoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.envioentradaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.enviosdesalidaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.estadoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.factuasventaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.facturaCompraRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.facturascanceladasclientesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.facturasmorosasvendedorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.grupoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.municipioRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.notasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.NotascreditoClientesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.NotascreditoProveedoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.perfilRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.productosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.proveedorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.recibosclienteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.recibosproveedoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.regionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.rutaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.subgerenteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.subrutaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.supervisorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.tabla_clientesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.tipo_clienteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.transporteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.usuariosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.disermo.vendedorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.disermoTableAdapters.bajaclienteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermoTableAdapters.bancosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermoTableAdapters.combinacionesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermoTableAdapters.cotizacionesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermoTableAdapters.credito_proveedoresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermoTableAdapters.defacturasventaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermoTableAdapters.departamentoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermoTableAdapters.detallecotizacionesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermoTableAdapters.Detcredito_proveedoresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermoTableAdapters.detenvioentradaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermoTableAdapters.DetenviosdesalidaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermoTableAdapters.detfacturaCompraTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermoTableAdapters.DetNotascreditoClienteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermoTableAdapters.DetNotascreditoProveedoresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermoTableAdapters.detperfilTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermoTableAdapters.detrecibosclienteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermoTableAdapters.detrecibosproveedoresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermoTableAdapters.envioentradaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermoTableAdapters.enviosdesalidaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermoTableAdapters.estadoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermoTableAdapters.factuasventaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermoTableAdapters.facturaCompraTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermoTableAdapters.facturascanceladasclientesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermoTableAdapters.facturasmorosasvendedorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermoTableAdapters.grupoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermoTableAdapters.municipioTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermoTableAdapters.notasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermoTableAdapters.NotascreditoClientesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermoTableAdapters.NotascreditoProveedoresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermoTableAdapters.perfilTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermoTableAdapters.productosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermoTableAdapters.proveedorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermoTableAdapters.recibosclienteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermoTableAdapters.recibosproveedoresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermoTableAdapters.regionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermoTableAdapters.rutaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermoTableAdapters.subgerenteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermoTableAdapters.subrutaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermoTableAdapters.supervisorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermoTableAdapters.tabla_clientesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermoTableAdapters.tipo_clienteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermoTableAdapters.transporteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermoTableAdapters.usuariosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermoTableAdapters.vendedorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermoTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Disermo_Project.disermoTableAdapters.TableAdapterManager.UpdateUpdatedRows(Disermo_Project.disermo,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Disermo_Project.disermoTableAdapters.TableAdapterManager.UpdateInsertedRows(Disermo_Project.disermo,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Disermo_Project.disermoTableAdapters.TableAdapterManager.UpdateDeletedRows(Disermo_Project.disermo,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Disermo_Project.disermoTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Disermo_Project.disermoTableAdapters.TableAdapterManager.UpdateAll(Disermo_Project.disermo)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Disermo_Project.disermoTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Disermo_Project.disermoTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.bajaclienteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.bancosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.combinacionesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.cotizacionesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.credito_proveedoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.defacturasventaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.departamentoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.detallecotizacionesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.Detcredito_proveedoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.detenvioentradaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.DetenviosdesalidaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.detfacturaCompraDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.DetNotascreditoClienteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.DetNotascreditoProveedoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.detperfilDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.detrecibosclienteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.detrecibosproveedoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.envioentradaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.enviosdesalidaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.estadoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.factuasventaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.facturaCompraDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.facturascanceladasclientesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.facturasmorosasvendedorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.grupoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.municipioDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.NotascreditoClientesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.NotascreditoProveedoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.perfilDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.productosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.proveedorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.recibosclienteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.recibosproveedoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.regionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.rutaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.subgerenteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.subrutaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.supervisorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.tabla_clientesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.tipo_clienteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.transporteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.usuariosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.vendedorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.bajaclienteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.bancosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.combinacionesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.cotizacionesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.credito_proveedoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.defacturasventaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.departamentoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.detallecotizacionesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.Detcredito_proveedoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.detenvioentradaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.DetenviosdesalidaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.detfacturaCompraRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.DetNotascreditoClienteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.DetNotascreditoProveedoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.detperfilRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.detrecibosclienteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.detrecibosproveedoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.envioentradaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.enviosdesalidaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.estadoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.factuasventaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.facturaCompraRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.facturascanceladasclientesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.facturasmorosasvendedorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.grupoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.municipioRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.NotascreditoClientesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.NotascreditoProveedoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.perfilRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.productosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.proveedorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.recibosclienteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.recibosproveedoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.regionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.rutaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.subgerenteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.subrutaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.supervisorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.tabla_clientesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.tipo_clienteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.transporteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.usuariosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.vendedorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.bajaclienteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.bancosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.combinacionesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.cotizacionesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.credito_proveedoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.defacturasventaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.departamentoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.detallecotizacionesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.Detcredito_proveedoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.detenvioentradaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.DetenviosdesalidaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.detfacturaCompraRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.DetNotascreditoClienteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.DetNotascreditoProveedoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.detperfilRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.detrecibosclienteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.detrecibosproveedoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.envioentradaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.enviosdesalidaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.estadoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.factuasventaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.facturaCompraRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.facturascanceladasclientesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.facturasmorosasvendedorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.grupoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.municipioRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.NotascreditoClientesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.NotascreditoProveedoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.perfilRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.productosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.proveedorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.recibosclienteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.recibosproveedoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.regionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.rutaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.subgerenteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.subrutaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.supervisorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.tabla_clientesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.tipo_clienteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.transporteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.usuariosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoData.vendedorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataTableAdapters.bajaclienteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataTableAdapters.bancosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataTableAdapters.combinacionesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataTableAdapters.cotizacionesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataTableAdapters.credito_proveedoresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataTableAdapters.defacturasventaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataTableAdapters.departamentoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataTableAdapters.detallecotizacionesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataTableAdapters.Detcredito_proveedoresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataTableAdapters.detenvioentradaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataTableAdapters.DetenviosdesalidaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataTableAdapters.detfacturaCompraTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataTableAdapters.DetNotascreditoClienteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataTableAdapters.DetNotascreditoProveedoresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataTableAdapters.detperfilTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataTableAdapters.detrecibosclienteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataTableAdapters.detrecibosproveedoresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataTableAdapters.envioentradaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataTableAdapters.enviosdesalidaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataTableAdapters.estadoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataTableAdapters.factuasventaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataTableAdapters.facturaCompraTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataTableAdapters.facturascanceladasclientesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataTableAdapters.facturasmorosasvendedorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataTableAdapters.grupoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataTableAdapters.municipioTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataTableAdapters.NotascreditoClientesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataTableAdapters.NotascreditoProveedoresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataTableAdapters.perfilTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataTableAdapters.productosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataTableAdapters.proveedorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataTableAdapters.recibosclienteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataTableAdapters.recibosproveedoresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataTableAdapters.regionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataTableAdapters.rutaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataTableAdapters.subgerenteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataTableAdapters.subrutaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataTableAdapters.supervisorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataTableAdapters.tabla_clientesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataTableAdapters.tipo_clienteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataTableAdapters.transporteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataTableAdapters.usuariosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataTableAdapters.vendedorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Disermo_Project.DisermoDataTableAdapters.TableAdapterManager.UpdateUpdatedRows(Disermo_Project.DisermoData,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Disermo_Project.DisermoDataTableAdapters.TableAdapterManager.UpdateInsertedRows(Disermo_Project.DisermoData,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Disermo_Project.DisermoDataTableAdapters.TableAdapterManager.UpdateDeletedRows(Disermo_Project.DisermoData,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Disermo_Project.DisermoDataTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Disermo_Project.DisermoDataTableAdapters.TableAdapterManager.UpdateAll(Disermo_Project.DisermoData)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.bajaclienteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.bancosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.combinacionesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.cotizacionesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.credito_proveedoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.defacturasventaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.departamentoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.detallecotizacionesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.Detcredito_proveedoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.detenvioentradaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.DetenviosdesalidaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.detfacturaCompraDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.DetNotascreditoClienteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.DetNotascreditoProveedoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.detperfilDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.detrecibosclienteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.detrecibosproveedoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.envioentradaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.enviosdesalidaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.estadoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.factuasventaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.facturaCompraDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.facturascanceladasclientesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.facturasmorosasvendedorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.grupoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.municipioDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.NotascreditoClientesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.NotascreditoProveedoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.perfilDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.productosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.proveedorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.recibosclienteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.recibosproveedoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.regionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.rutaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.subgerenteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.subrutaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.supervisorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.tabla_clientesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.tipo_clienteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.transporteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.usuariosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.vendedorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.bajaclienteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.bancosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.combinacionesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.cotizacionesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.credito_proveedoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.defacturasventaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.departamentoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.detallecotizacionesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.Detcredito_proveedoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.detenvioentradaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.DetenviosdesalidaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.detfacturaCompraRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.DetNotascreditoClienteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.DetNotascreditoProveedoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.detperfilRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.detrecibosclienteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.detrecibosproveedoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.envioentradaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.enviosdesalidaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.estadoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.factuasventaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.facturaCompraRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.facturascanceladasclientesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.facturasmorosasvendedorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.grupoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.municipioRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.NotascreditoClientesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.NotascreditoProveedoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.perfilRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.productosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.proveedorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.recibosclienteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.recibosproveedoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.regionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.rutaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.subgerenteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.subrutaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.supervisorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.tabla_clientesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.tipo_clienteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.transporteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.usuariosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.vendedorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.bajaclienteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.bancosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.combinacionesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.cotizacionesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.credito_proveedoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.defacturasventaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.departamentoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.detallecotizacionesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.Detcredito_proveedoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.detenvioentradaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.DetenviosdesalidaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.detfacturaCompraRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.DetNotascreditoClienteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.DetNotascreditoProveedoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.detperfilRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.detrecibosclienteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.detrecibosproveedoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.envioentradaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.enviosdesalidaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.estadoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.factuasventaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.facturaCompraRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.facturascanceladasclientesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.facturasmorosasvendedorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.grupoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.municipioRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.NotascreditoClientesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.NotascreditoProveedoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.perfilRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.productosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.proveedorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.recibosclienteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.recibosproveedoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.regionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.rutaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.subgerenteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.subrutaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.supervisorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.tabla_clientesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.tipo_clienteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.transporteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.usuariosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1.vendedorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1TableAdapters.bajaclienteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1TableAdapters.bancosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1TableAdapters.combinacionesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1TableAdapters.cotizacionesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1TableAdapters.credito_proveedoresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1TableAdapters.defacturasventaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1TableAdapters.departamentoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1TableAdapters.detallecotizacionesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1TableAdapters.Detcredito_proveedoresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1TableAdapters.detenvioentradaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1TableAdapters.DetenviosdesalidaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1TableAdapters.detfacturaCompraTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1TableAdapters.DetNotascreditoClienteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1TableAdapters.DetNotascreditoProveedoresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1TableAdapters.detperfilTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1TableAdapters.detrecibosclienteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1TableAdapters.detrecibosproveedoresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1TableAdapters.envioentradaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1TableAdapters.enviosdesalidaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1TableAdapters.estadoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1TableAdapters.factuasventaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1TableAdapters.facturaCompraTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1TableAdapters.facturascanceladasclientesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1TableAdapters.facturasmorosasvendedorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1TableAdapters.grupoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1TableAdapters.municipioTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1TableAdapters.NotascreditoClientesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1TableAdapters.NotascreditoProveedoresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1TableAdapters.perfilTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1TableAdapters.productosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1TableAdapters.proveedorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1TableAdapters.recibosclienteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1TableAdapters.recibosproveedoresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1TableAdapters.regionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1TableAdapters.rutaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1TableAdapters.subgerenteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1TableAdapters.subrutaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1TableAdapters.supervisorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1TableAdapters.tabla_clientesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1TableAdapters.tipo_clienteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1TableAdapters.transporteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1TableAdapters.usuariosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1TableAdapters.vendedorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Disermo_Project.DisermoDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(Disermo_Project.DisermoDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Disermo_Project.DisermoDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(Disermo_Project.DisermoDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Disermo_Project.DisermoDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(Disermo_Project.DisermoDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Disermo_Project.DisermoDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Disermo_Project.DisermoDataSet1TableAdapters.TableAdapterManager.UpdateAll(Disermo_Project.DisermoDataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.bajaclienteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.bancosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.combinacionesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.cotizacionesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.credito_proveedoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.defacturasventaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.departamentoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.detallecotizacionesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.Detcredito_proveedoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.detenvioentradaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.DetenviosdesalidaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.detfacturaCompraDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.DetNotascreditoClienteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.DetNotascreditoProveedoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.detperfilDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.detrecibosclienteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.detrecibosproveedoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.envioentradaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.enviosdesalidaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.estadoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.factuasventaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.facturaCompraDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.facturascanceladasclientesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.facturasmorosasvendedorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.grupoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.municipioDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.notasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.NotascreditoClientesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.NotascreditoProveedoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.perfilDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.productosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.proveedorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.recibosclienteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.recibosproveedoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.regionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.rutaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.subgerenteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.subrutaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.supervisorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.tabla_clientesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.tipo_clienteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.transporteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.usuariosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.vendedorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.bajaclienteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.bancosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.combinacionesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.cotizacionesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.credito_proveedoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.defacturasventaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.departamentoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.detallecotizacionesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.Detcredito_proveedoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.detenvioentradaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.DetenviosdesalidaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.detfacturaCompraRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.DetNotascreditoClienteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.DetNotascreditoProveedoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.detperfilRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.detrecibosclienteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.detrecibosproveedoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.envioentradaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.enviosdesalidaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.estadoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.factuasventaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.facturaCompraRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.facturascanceladasclientesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.facturasmorosasvendedorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.grupoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.municipioRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.notasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.NotascreditoClientesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.NotascreditoProveedoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.perfilRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.productosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.proveedorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.recibosclienteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.recibosproveedoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.regionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.rutaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.subgerenteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.subrutaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.supervisorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.tabla_clientesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.tipo_clienteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.transporteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.usuariosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.vendedorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.bajaclienteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.bancosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.combinacionesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.cotizacionesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.credito_proveedoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.defacturasventaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.departamentoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.detallecotizacionesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.Detcredito_proveedoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.detenvioentradaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.DetenviosdesalidaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.detfacturaCompraRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.DetNotascreditoClienteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.DetNotascreditoProveedoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.detperfilRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.detrecibosclienteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.detrecibosproveedoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.envioentradaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.enviosdesalidaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.estadoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.factuasventaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.facturaCompraRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.facturascanceladasclientesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.facturasmorosasvendedorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.grupoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.municipioRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.notasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.NotascreditoClientesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.NotascreditoProveedoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.perfilRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.productosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.proveedorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.recibosclienteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.recibosproveedoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.regionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.rutaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.subgerenteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.subrutaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.supervisorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.tabla_clientesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.tipo_clienteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.transporteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.usuariosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2.vendedorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2TableAdapters.bajaclienteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2TableAdapters.bancosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2TableAdapters.combinacionesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2TableAdapters.cotizacionesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2TableAdapters.credito_proveedoresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2TableAdapters.defacturasventaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2TableAdapters.departamentoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2TableAdapters.detallecotizacionesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2TableAdapters.Detcredito_proveedoresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2TableAdapters.detenvioentradaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2TableAdapters.DetenviosdesalidaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2TableAdapters.detfacturaCompraTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2TableAdapters.DetNotascreditoClienteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2TableAdapters.DetNotascreditoProveedoresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2TableAdapters.detperfilTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2TableAdapters.detrecibosclienteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2TableAdapters.detrecibosproveedoresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2TableAdapters.envioentradaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2TableAdapters.enviosdesalidaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2TableAdapters.estadoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2TableAdapters.factuasventaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2TableAdapters.facturaCompraTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2TableAdapters.facturascanceladasclientesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2TableAdapters.facturasmorosasvendedorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2TableAdapters.grupoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2TableAdapters.municipioTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2TableAdapters.notasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2TableAdapters.NotascreditoClientesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2TableAdapters.NotascreditoProveedoresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2TableAdapters.perfilTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2TableAdapters.productosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2TableAdapters.proveedorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2TableAdapters.recibosclienteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2TableAdapters.recibosproveedoresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2TableAdapters.regionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2TableAdapters.rutaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2TableAdapters.subgerenteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2TableAdapters.subrutaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2TableAdapters.supervisorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2TableAdapters.tabla_clientesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2TableAdapters.tipo_clienteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2TableAdapters.transporteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2TableAdapters.usuariosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2TableAdapters.vendedorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Disermo_Project.DisermoDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(Disermo_Project.DisermoDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Disermo_Project.DisermoDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(Disermo_Project.DisermoDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Disermo_Project.DisermoDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(Disermo_Project.DisermoDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Disermo_Project.DisermoDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Disermo_Project.DisermoDataSet2TableAdapters.TableAdapterManager.UpdateAll(Disermo_Project.DisermoDataSet2)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.bajaclienteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.bancosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.combinacionesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.cotizacionesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.credito_proveedoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.defacturasventaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.departamentoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.detallecotizacionesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.Detcredito_proveedoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.detenvioentradaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.DetenviosdesalidaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.detfacturaCompraDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.DetNotascreditoClienteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.DetNotascreditoProveedoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.detperfilDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.detrecibosclienteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.detrecibosproveedoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.envioentradaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.enviosdesalidaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.estadoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.factuasventaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.facturaCompraDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.facturascanceladasclientesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.facturasmorosasvendedorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.fotosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.grupoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.municipioDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.notasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.NotascreditoClientesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.NotascreditoProveedoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.perfilDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.productosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.proveedorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.recibosclienteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.recibosproveedoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.regionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.rutaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.subgerenteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.subrutaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.supervisorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.tabla_clientesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.tipo_clienteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.transporteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.ultimasesionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.usuariosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.vendedorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.bajaclienteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.bancosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.combinacionesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.cotizacionesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.credito_proveedoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.defacturasventaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.departamentoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.detallecotizacionesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.Detcredito_proveedoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.detenvioentradaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.DetenviosdesalidaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.detfacturaCompraRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.DetNotascreditoClienteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.DetNotascreditoProveedoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.detperfilRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.detrecibosclienteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.detrecibosproveedoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.envioentradaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.enviosdesalidaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.estadoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.factuasventaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.facturaCompraRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.facturascanceladasclientesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.facturasmorosasvendedorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.fotosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.grupoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.municipioRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.notasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.NotascreditoClientesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.NotascreditoProveedoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.perfilRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.productosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.proveedorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.recibosclienteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.recibosproveedoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.regionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.rutaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.subgerenteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.subrutaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.supervisorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.tabla_clientesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.tipo_clienteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.transporteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.ultimasesionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.usuariosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.vendedorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.bajaclienteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.bancosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.combinacionesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.cotizacionesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.credito_proveedoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.defacturasventaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.departamentoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.detallecotizacionesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.Detcredito_proveedoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.detenvioentradaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.DetenviosdesalidaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.detfacturaCompraRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.DetNotascreditoClienteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.DetNotascreditoProveedoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.detperfilRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.detrecibosclienteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.detrecibosproveedoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.envioentradaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.enviosdesalidaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.estadoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.factuasventaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.facturaCompraRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.facturascanceladasclientesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.facturasmorosasvendedorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.fotosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.grupoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.municipioRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.notasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.NotascreditoClientesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.NotascreditoProveedoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.perfilRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.productosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.proveedorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.recibosclienteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.recibosproveedoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.regionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.rutaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.subgerenteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.subrutaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.supervisorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.tabla_clientesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.tipo_clienteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.transporteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.ultimasesionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.usuariosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3.vendedorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.bajaclienteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.bancosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.combinacionesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.cotizacionesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.credito_proveedoresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.defacturasventaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.departamentoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.detallecotizacionesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.Detcredito_proveedoresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.detenvioentradaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.DetenviosdesalidaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.detfacturaCompraTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.DetNotascreditoClienteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.DetNotascreditoProveedoresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.detperfilTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.detrecibosclienteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.detrecibosproveedoresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.envioentradaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.enviosdesalidaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.estadoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.factuasventaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.facturaCompraTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.facturascanceladasclientesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.facturasmorosasvendedorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.fotosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.grupoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.municipioTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.notasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.NotascreditoClientesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.NotascreditoProveedoresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.perfilTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.productosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.proveedorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.recibosclienteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.recibosproveedoresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.regionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.rutaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.subgerenteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.subrutaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.supervisorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.tabla_clientesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.tipo_clienteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.transporteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.ultimasesionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.usuariosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.vendedorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Disermo_Project.DisermoDataSet3TableAdapters.TableAdapterManager.UpdateUpdatedRows(Disermo_Project.DisermoDataSet3,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Disermo_Project.DisermoDataSet3TableAdapters.TableAdapterManager.UpdateInsertedRows(Disermo_Project.DisermoDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Disermo_Project.DisermoDataSet3TableAdapters.TableAdapterManager.UpdateDeletedRows(Disermo_Project.DisermoDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Disermo_Project.DisermoDataSet3TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Disermo_Project.DisermoDataSet3TableAdapters.TableAdapterManager.UpdateAll(Disermo_Project.DisermoDataSet3)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet3TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Disermo_Project.clientesdataset">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Disermo_Project.clientesdataset.tabla_clientesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.clientesdataset.tabla_clientesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.clientesdataset.tabla_clientesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.clientesdatasetTableAdapters.tabla_clientesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.clientesdatasetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Disermo_Project.clientesdatasetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Disermo_Project.clientesdataset,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Disermo_Project.clientesdatasetTableAdapters.TableAdapterManager.UpdateInsertedRows(Disermo_Project.clientesdataset,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Disermo_Project.clientesdatasetTableAdapters.TableAdapterManager.UpdateDeletedRows(Disermo_Project.clientesdataset,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Disermo_Project.clientesdatasetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Disermo_Project.clientesdatasetTableAdapters.TableAdapterManager.UpdateAll(Disermo_Project.clientesdataset)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Disermo_Project.clientesdatasetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Disermo_Project.clientesdatasetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Disermo_Project.combinacionesdataset">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Disermo_Project.combinacionesdataset.combinacionesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.combinacionesdataset.combinacionesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.combinacionesdataset.combinacionesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.combinacionesdatasetTableAdapters.combinacionesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.combinacionesdatasetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Disermo_Project.combinacionesdatasetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Disermo_Project.combinacionesdataset,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Disermo_Project.combinacionesdatasetTableAdapters.TableAdapterManager.UpdateInsertedRows(Disermo_Project.combinacionesdataset,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Disermo_Project.combinacionesdatasetTableAdapters.TableAdapterManager.UpdateDeletedRows(Disermo_Project.combinacionesdataset,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Disermo_Project.combinacionesdatasetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Disermo_Project.combinacionesdatasetTableAdapters.TableAdapterManager.UpdateAll(Disermo_Project.combinacionesdataset)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Disermo_Project.combinacionesdatasetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Disermo_Project.combinacionesdatasetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.combinacionesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.cotizacionesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.credito_proveedoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.departamentoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.detallecotizacionesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.Detcredito_proveedoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.detenvioentradaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.DetenviosdesalidaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.detfacturaCompraDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.DetNotascreditoClientesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.envioentradaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.enviosdesalidaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.estadoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.facturacionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.facturaCompraDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.facturascanceladasclientesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.facturasmorosasvendedorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.grupoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.municipioDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.NotascreditoClientesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.productosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.proveedorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.recibosclienteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.regionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.rutaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.subgerenteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.subrutaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.supervisorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.tabla_clientesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.tipo_clienteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.transporteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.vendedorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.combinacionesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.cotizacionesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.credito_proveedoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.departamentoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.detallecotizacionesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.Detcredito_proveedoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.detenvioentradaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.DetenviosdesalidaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.detfacturaCompraRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.DetNotascreditoClientesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.envioentradaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.enviosdesalidaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.estadoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.facturacionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.facturaCompraRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.facturascanceladasclientesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.facturasmorosasvendedorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.grupoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.municipioRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.NotascreditoClientesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.productosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.proveedorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.recibosclienteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.regionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.rutaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.subgerenteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.subrutaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.supervisorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.tabla_clientesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.tipo_clienteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.transporteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.vendedorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.combinacionesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.cotizacionesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.credito_proveedoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.departamentoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.detallecotizacionesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.Detcredito_proveedoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.detenvioentradaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.DetenviosdesalidaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.detfacturaCompraRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.DetNotascreditoClientesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.envioentradaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.enviosdesalidaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.estadoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.facturacionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.facturaCompraRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.facturascanceladasclientesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.facturasmorosasvendedorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.grupoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.municipioRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.NotascreditoClientesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.productosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.proveedorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.recibosclienteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.regionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.rutaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.subgerenteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.subrutaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.supervisorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.tabla_clientesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.tipo_clienteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.transporteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSet.vendedorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSetTableAdapters.combinacionesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSetTableAdapters.cotizacionesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSetTableAdapters.credito_proveedoresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSetTableAdapters.departamentoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSetTableAdapters.detallecotizacionesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSetTableAdapters.Detcredito_proveedoresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSetTableAdapters.detenvioentradaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSetTableAdapters.DetenviosdesalidaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSetTableAdapters.detfacturaCompraTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSetTableAdapters.DetNotascreditoClientesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSetTableAdapters.envioentradaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSetTableAdapters.enviosdesalidaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSetTableAdapters.estadoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSetTableAdapters.facturacionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSetTableAdapters.facturaCompraTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSetTableAdapters.facturascanceladasclientesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSetTableAdapters.facturasmorosasvendedorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSetTableAdapters.grupoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSetTableAdapters.municipioTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSetTableAdapters.NotascreditoClientesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSetTableAdapters.productosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSetTableAdapters.proveedorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSetTableAdapters.recibosclienteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSetTableAdapters.regionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSetTableAdapters.rutaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSetTableAdapters.subgerenteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSetTableAdapters.subrutaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSetTableAdapters.supervisorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSetTableAdapters.tabla_clientesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSetTableAdapters.tipo_clienteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSetTableAdapters.transporteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSetTableAdapters.vendedorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Disermo_Project.DisermoDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Disermo_Project.DisermoDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Disermo_Project.DisermoDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Disermo_Project.DisermoDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Disermo_Project.DisermoDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Disermo_Project.DisermoDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Disermo_Project.DisermoDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Disermo_Project.DisermoDataSetTableAdapters.TableAdapterManager.UpdateAll(Disermo_Project.DisermoDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Disermo_Project.DisermoDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

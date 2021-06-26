@@ -1,0 +1,986 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{68D83B75-E5C1-46D1-9ABE-A09C5F5A3823}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Disermo_Project.My.MyApplication</StartupObject>
+    <RootNamespace>Disermo_Project</RootNamespace>
+    <AssemblyName>Disermo Project</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Disermo Project.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Disermo Project.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>ICONO.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="MySql.Data, Version=6.3.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\MySQL\MySQL Connector Net 6.3.5\Assemblies\v2.0\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="PictureBoxAbouAmmar">
+      <HintPath>E:\WebCam 2017\WebCam 2017\WebCam 2017\bin\Debug\PictureBoxAbouAmmar.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Transitions, Version=1.2.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\dot-net-transitions.1.2.1.0\lib\net40-full\Transitions.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="WebCAM">
+      <HintPath>E:\WebCam 2017\WebCam 2017\WebCam 2017\bin\Debug\WebCAM.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Clases\Colorizacion.vb" />
+    <Compile Include="Clases\Conve.vb" />
+    <Compile Include="clientesreporte.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>clientesreporte.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="disermo.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>disermo.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DisermoData.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DisermoData.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DisermoDataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DisermoDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DisermoDataSet2.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DisermoDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DisermoDataSet3.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DisermoDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Principales\conexion.vb" />
+    <Compile Include="Principales\Config\Conversor.Designer.vb">
+      <DependentUpon>Conversor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Principales\Config\Conversor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principales\PostCarga.Designer.vb">
+      <DependentUpon>PostCarga.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Principales\PostCarga.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principales\Carga2.Designer.vb">
+      <DependentUpon>Carga2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Principales\Carga2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principales\Config\Clima.Designer.vb">
+      <DependentUpon>Clima.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Principales\Config\Clima.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principales\Config\Camara.designer.vb">
+      <DependentUpon>Camara.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Principales\Config\Camara.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="productos.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>productos.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="productos2.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>productos2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="reportes\Reporte tabla productos.Designer.vb">
+      <DependentUpon>Reporte tabla productos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="reportes\Reporte tabla productos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Movimientos\Facturas compra.Designer.vb">
+      <DependentUpon>Facturas compra.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Movimientos\Facturas compra.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reportes\clientesdataset.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>clientesdataset.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="reportes\Combinaciones.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Combinaciones.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="reportes\reporte tabla clientes.Designer.vb">
+      <DependentUpon>reporte tabla clientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="reportes\reporte tabla clientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principales\Carga.Designer.vb">
+      <DependentUpon>Carga.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Principales\Carga.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clases\vForm.vb" />
+    <Compile Include="combinacionesdataset.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>combinacionesdataset.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DisermoDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DisermoDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Cuentas por cobrar\Antiguedad de saldos.Designer.vb">
+      <DependentUpon>Antiguedad de saldos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Cuentas por cobrar\Antiguedad de saldos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Cuentas por cobrar\menu de cuentas por cobrar.Designer.vb">
+      <DependentUpon>menu de cuentas por cobrar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Cuentas por cobrar\menu de cuentas por cobrar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Mantenimientos\menu mantenimientos.Designer.vb">
+      <DependentUpon>menu mantenimientos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Mantenimientos\menu mantenimientos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principales\Configuración.Designer.vb">
+      <DependentUpon>Configuración.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Principales\Configuración.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principales\Extras\Borrador\Base.Designer.vb">
+      <DependentUpon>Base.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Principales\Extras\Borrador\Base.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Principales\Extras\Ejemplo2.Designer.vb">
+      <DependentUpon>Ejemplo2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Principales\Extras\Ejemplo2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principales\General.Designer.vb">
+      <DependentUpon>General.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Principales\General.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principales\xd.Designer.vb">
+      <DependentUpon>xd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Principales\xd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Movimientos\Envios de entrada.Designer.vb">
+      <DependentUpon>Envios de entrada.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Movimientos\Envios de entrada.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Cuentas por cobrar\facturas pendientes de pago.Designer.vb">
+      <DependentUpon>facturas pendientes de pago.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Cuentas por cobrar\facturas pendientes de pago.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Movimientos\Recibos a proveedor.Designer.vb">
+      <DependentUpon>Recibos a proveedor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Movimientos\Recibos a proveedor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Utilitarios\Busqueda_de_clientes.designer.vb">
+      <DependentUpon>Busqueda_de_clientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Utilitarios\Busqueda_de_clientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Utilitarios\Consulta de proveedores.designer.vb">
+      <DependentUpon>Consulta de proveedores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Utilitarios\Consulta de proveedores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Utilitarios\Cuadro de Clientes.designer.vb">
+      <DependentUpon>Cuadro de Clientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Utilitarios\Cuadro de Clientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Utilitarios\Cotizaciones.designer.vb">
+      <DependentUpon>Cotizaciones.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Utilitarios\Cotizaciones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Utilitarios\Cuadro_de_productos.designer.vb">
+      <DependentUpon>Cuadro_de_productos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Utilitarios\Cuadro_de_productos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Cuentas por pagar\Documentos_Cancelados a proveedores.designer.vb">
+      <DependentUpon>Documentos_Cancelados a proveedores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Cuentas por pagar\Documentos_Cancelados a proveedores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Cuentas por cobrar\Facturas Canceladas Clientes.designer.vb">
+      <DependentUpon>Facturas Canceladas Clientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Cuentas por cobrar\Facturas Canceladas Clientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Cuentas por cobrar\Facturas Morosas x Vendedor.designer.vb">
+      <DependentUpon>Facturas Morosas x Vendedor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Cuentas por cobrar\Facturas Morosas x Vendedor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Cuentas por pagar\Documentos en mora a proveedores.designer.vb">
+      <DependentUpon>Documentos en mora a proveedores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Cuentas por pagar\Documentos en mora a proveedores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Cuentas por pagar\Documentos por pagar proveedores.designer.vb">
+      <DependentUpon>Documentos por pagar proveedores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Cuentas por pagar\Documentos por pagar proveedores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Cuentas por pagar\Menu cuentas por pagar.designer.vb">
+      <DependentUpon>Menu cuentas por pagar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Cuentas por pagar\Menu cuentas por pagar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Utilitarios\Menu_de_utilitarios.designer.vb">
+      <DependentUpon>Menu_de_utilitarios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Utilitarios\Menu_de_utilitarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Cuentas por pagar\reporte de antiguedad de saldos por proveedor.designer.vb">
+      <DependentUpon>reporte de antiguedad de saldos por proveedor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Cuentas por pagar\reporte de antiguedad de saldos por proveedor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Movimientos\Documentos de compra.Designer.vb">
+      <DependentUpon>Documentos de compra.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Movimientos\Documentos de compra.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Movimientos\Envios de salida.Designer.vb">
+      <DependentUpon>Envios de salida.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Movimientos\Envios de salida.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Movimientos\Facturas venta.Designer.vb">
+      <DependentUpon>Facturas venta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Movimientos\Facturas venta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Mantenimientos\Maestro de clientes.designer.vb">
+      <DependentUpon>Maestro de clientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Mantenimientos\Maestro de clientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Mantenimientos\Maestro de combinaciones.Designer.vb">
+      <DependentUpon>Maestro de combinaciones.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Mantenimientos\Maestro de combinaciones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Mantenimientos\Maestro de productos.Designer.vb">
+      <DependentUpon>Maestro de productos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Mantenimientos\Maestro de productos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Mantenimientos\Maestro de supervicion.Designer.vb">
+      <DependentUpon>Maestro de supervicion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Mantenimientos\Maestro de supervicion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Mantenimientos\Maestro de usuarios.Designer.vb">
+      <DependentUpon>Maestro de usuarios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Mantenimientos\Maestro de usuarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Mantenimientos\Mantenimiento de rutas.Designer.vb">
+      <DependentUpon>Mantenimiento de rutas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Mantenimientos\Mantenimiento de rutas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Mantenimientos\mantinimiento de sub rutas.Designer.vb">
+      <DependentUpon>mantinimiento de sub rutas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Mantenimientos\mantinimiento de sub rutas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Mantenimientos\Municipios.Designer.vb">
+      <DependentUpon>Municipios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Mantenimientos\Municipios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Movimientos\Notas de credito clientes.Designer.vb">
+      <DependentUpon>Notas de credito clientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Movimientos\Notas de credito clientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Movimientos\Notas de credito proveedores.Designer.vb">
+      <DependentUpon>Notas de credito proveedores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Movimientos\Notas de credito proveedores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Movimientos\Recibos a clientes.Designer.vb">
+      <DependentUpon>Recibos a clientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Movimientos\Recibos a clientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principales\Login.designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Principales\Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Mantenimientos\Maestro de proveedores.Designer.vb">
+      <DependentUpon>Maestro de proveedores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Mantenimientos\Maestro de proveedores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Mantenimientos\Maestro de vendedores.Designer.vb">
+      <DependentUpon>Maestro de vendedores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Mantenimientos\Maestro de vendedores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Movimientos\Menu Movimientos.Designer.vb">
+      <DependentUpon>Menu Movimientos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ferreteria\Administrador\Movimientos\Menu Movimientos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principales\Main.Designer.vb">
+      <DependentUpon>Main.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Principales\Main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principales\Config\Ayuda.Designer.vb">
+      <DependentUpon>Ayuda.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Principales\Config\Ayuda.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principales\Config\Usuario.Designer.vb">
+      <DependentUpon>Usuario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Principales\Config\Usuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="reportes\reporte tabla combinaciones.Designer.vb">
+      <DependentUpon>reporte tabla combinaciones.vb</DependentUpon>
+    </Compile>
+    <Compile Include="reportes\reporte tabla combinaciones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="clientesreporte.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>clientesreporte.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principales\Config\Conversor.resx">
+      <DependentUpon>Conversor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principales\PostCarga.resx">
+      <DependentUpon>PostCarga.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principales\Carga2.resx">
+      <DependentUpon>Carga2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principales\Config\Ayuda.resx">
+      <DependentUpon>Ayuda.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principales\Config\Clima.resx">
+      <DependentUpon>Clima.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principales\Config\Camara.resx">
+      <DependentUpon>Camara.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="productos.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>productos.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="productos2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>productos2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportes\Reporte tabla productos.resx">
+      <DependentUpon>Reporte tabla productos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ferreteria\Administrador\Movimientos\Facturas compra.resx">
+      <DependentUpon>Facturas compra.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principales\Carga.resx">
+      <DependentUpon>Carga.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ferreteria\Administrador\Cuentas por cobrar\Antiguedad de saldos.resx">
+      <DependentUpon>Antiguedad de saldos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ferreteria\Administrador\Cuentas por cobrar\menu de cuentas por cobrar.resx">
+      <DependentUpon>menu de cuentas por cobrar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ferreteria\Administrador\Mantenimientos\menu mantenimientos.resx">
+      <DependentUpon>menu mantenimientos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ferreteria\Administrador\Movimientos\Envios de entrada.resx">
+      <DependentUpon>Envios de entrada.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ferreteria\Administrador\Cuentas por cobrar\facturas pendientes de pago.resx">
+      <DependentUpon>facturas pendientes de pago.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ferreteria\Administrador\Movimientos\Recibos a proveedor.resx">
+      <DependentUpon>Recibos a proveedor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ferreteria\Administrador\Utilitarios\Busqueda_de_clientes.resx">
+      <DependentUpon>Busqueda_de_clientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ferreteria\Administrador\Utilitarios\Consulta de proveedores.resx">
+      <DependentUpon>Consulta de proveedores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ferreteria\Administrador\Utilitarios\Cuadro de Clientes.resx">
+      <DependentUpon>Cuadro de Clientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ferreteria\Administrador\Utilitarios\Cotizaciones.resx">
+      <DependentUpon>Cotizaciones.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ferreteria\Administrador\Utilitarios\Cuadro_de_productos.resx">
+      <DependentUpon>Cuadro_de_productos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ferreteria\Administrador\Cuentas por pagar\Documentos_Cancelados a proveedores.resx">
+      <DependentUpon>Documentos_Cancelados a proveedores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ferreteria\Administrador\Cuentas por cobrar\Facturas Canceladas Clientes.resx">
+      <DependentUpon>Facturas Canceladas Clientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ferreteria\Administrador\Cuentas por cobrar\Facturas Morosas x Vendedor.resx">
+      <DependentUpon>Facturas Morosas x Vendedor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ferreteria\Administrador\Cuentas por pagar\Documentos en mora a proveedores.resx">
+      <DependentUpon>Documentos en mora a proveedores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ferreteria\Administrador\Cuentas por pagar\Documentos por pagar proveedores.resx">
+      <DependentUpon>Documentos por pagar proveedores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ferreteria\Administrador\Cuentas por pagar\Menu cuentas por pagar.resx">
+      <DependentUpon>Menu cuentas por pagar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ferreteria\Administrador\Utilitarios\Menu_de_utilitarios.resx">
+      <DependentUpon>Menu_de_utilitarios.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ferreteria\Administrador\Cuentas por pagar\reporte de antiguedad de saldos por proveedor.resx">
+      <DependentUpon>reporte de antiguedad de saldos por proveedor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ferreteria\Administrador\Movimientos\Documentos de compra.resx">
+      <DependentUpon>Documentos de compra.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ferreteria\Administrador\Movimientos\Envios de salida.resx">
+      <DependentUpon>Envios de salida.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ferreteria\Administrador\Movimientos\Facturas venta.resx">
+      <DependentUpon>Facturas venta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ferreteria\Administrador\Mantenimientos\Maestro de clientes.resx">
+      <DependentUpon>Maestro de clientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ferreteria\Administrador\Mantenimientos\Maestro de combinaciones.resx">
+      <DependentUpon>Maestro de combinaciones.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ferreteria\Administrador\Mantenimientos\Maestro de productos.resx">
+      <DependentUpon>Maestro de productos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ferreteria\Administrador\Mantenimientos\Maestro de supervicion.resx">
+      <DependentUpon>Maestro de supervicion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ferreteria\Administrador\Mantenimientos\Maestro de usuarios.resx">
+      <DependentUpon>Maestro de usuarios.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ferreteria\Administrador\Mantenimientos\Mantenimiento de rutas.resx">
+      <DependentUpon>Mantenimiento de rutas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ferreteria\Administrador\Mantenimientos\mantinimiento de sub rutas.resx">
+      <DependentUpon>mantinimiento de sub rutas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ferreteria\Administrador\Mantenimientos\Municipios.resx">
+      <DependentUpon>Municipios.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ferreteria\Administrador\Movimientos\Notas de credito clientes.resx">
+      <DependentUpon>Notas de credito clientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ferreteria\Administrador\Movimientos\Notas de credito proveedores.resx">
+      <DependentUpon>Notas de credito proveedores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ferreteria\Administrador\Movimientos\Recibos a clientes.resx">
+      <DependentUpon>Recibos a clientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principales\Configuración.resx">
+      <DependentUpon>Configuración.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principales\Extras\Ejemplo2.resx">
+      <DependentUpon>Ejemplo2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principales\General.resx">
+      <DependentUpon>General.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principales\Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ferreteria\Administrador\Mantenimientos\Maestro de proveedores.resx">
+      <DependentUpon>Maestro de proveedores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ferreteria\Administrador\Mantenimientos\Maestro de vendedores.resx">
+      <DependentUpon>Maestro de vendedores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ferreteria\Administrador\Movimientos\Menu Movimientos.resx">
+      <DependentUpon>Menu Movimientos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principales\Main.resx">
+      <DependentUpon>Main.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principales\Extras\Borrador\Base.resx">
+      <DependentUpon>Base.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principales\Config\Usuario.resx">
+      <DependentUpon>Usuario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principales\xd.resx">
+      <DependentUpon>xd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportes\Combinaciones.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Combinaciones.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportes\reporte tabla clientes.resx">
+      <DependentUpon>reporte tabla clientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportes\reporte tabla combinaciones.resx">
+      <DependentUpon>reporte tabla combinaciones.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="combinacionesdataset.xsc">
+      <DependentUpon>combinacionesdataset.xsd</DependentUpon>
+    </None>
+    <None Include="combinacionesdataset.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>combinacionesdataset.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="combinacionesdataset.xss">
+      <DependentUpon>combinacionesdataset.xsd</DependentUpon>
+    </None>
+    <None Include="disermo.xsc">
+      <DependentUpon>disermo.xsd</DependentUpon>
+    </None>
+    <None Include="disermo.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>disermo.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="disermo.xss">
+      <DependentUpon>disermo.xsd</DependentUpon>
+    </None>
+    <None Include="DisermoData.xsc">
+      <DependentUpon>DisermoData.xsd</DependentUpon>
+    </None>
+    <None Include="DisermoData.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DisermoData.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DisermoData.xss">
+      <DependentUpon>DisermoData.xsd</DependentUpon>
+    </None>
+    <None Include="DisermoDataSet.xsc">
+      <DependentUpon>DisermoDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DisermoDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DisermoDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DisermoDataSet.xss">
+      <DependentUpon>DisermoDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DisermoDataSet1.xsc">
+      <DependentUpon>DisermoDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DisermoDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DisermoDataSet1.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DisermoDataSet1.xss">
+      <DependentUpon>DisermoDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DisermoDataSet2.xsc">
+      <DependentUpon>DisermoDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="DisermoDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DisermoDataSet2.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DisermoDataSet2.xss">
+      <DependentUpon>DisermoDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="DisermoDataSet3.xsc">
+      <DependentUpon>DisermoDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="DisermoDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DisermoDataSet3.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DisermoDataSet3.xss">
+      <DependentUpon>DisermoDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="reportes\clientesdataset.xsc">
+      <DependentUpon>clientesdataset.xsd</DependentUpon>
+    </None>
+    <None Include="reportes\clientesdataset.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>clientesdataset.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="reportes\clientesdataset.xss">
+      <DependentUpon>clientesdataset.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\add_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\md_5b38cb3b44907.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\md_5b38cb3b449071.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settings_25px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calculator_25px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit_25px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout_rounded_up_25px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help_25px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home_20px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home2_20px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu_20px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo Cuadrado BN.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo Cuadrado BN2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\box_20px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\initiate_money_transfer_filled_20px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maintenance_20px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\move_by_trolley_20px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refund_20px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\request_money_filled_20px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Alargado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Alargado 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\web_20px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\web_25px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\currency_exchange_25px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_male_circle_filled_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout_rounded_up_25px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout_rounded_up_20px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settings_20px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help_20px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_male_circle_filled_30 2px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit_20px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_sign_20px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_sign_15px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\compress_15px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BarCerrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BarMaxmizar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BarMinimizar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BarRestaurar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\file_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnAñadir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnBuscar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnCancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnEliminar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnGuardar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btnReporte.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FONDO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ICONO.ico" />
+    <None Include="Resources\cmrSIG.png" />
+    <None Include="Resources\cmrFoto.png" />
+    <None Include="Resources\cmrCamara1.png" />
+    <None Include="Resources\cmrNueva.png" />
+    <None Include="Resources\cmrGuardar.png" />
+    <None Include="Resources\cmrEliminar.png" />
+    <None Include="Resources\cmrCamara.png" />
+    <None Include="Resources\NuevaImagen.png" />
+    <None Include="Resources\GuardarImagen.png" />
+    <None Include="Resources\borrar.png" />
+    <None Include="Resources\AbrirCamara.png" />
+    <None Include="Resources\adertencia.png" />
+    <None Include="Resources\Usuario60.png" />
+    <None Include="Resources\banknotes_filled_20px.png" />
+    <None Include="Resources\NoClima.png" />
+    <None Include="Resources\summer_20px.png" />
+    <None Include="Resources\clock_20px.png" />
+    <None Include="Resources\calendar_20px.png" />
+    <None Include="Resources\tumblr_ogi47qqlfI1utgp6co1_400.gif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

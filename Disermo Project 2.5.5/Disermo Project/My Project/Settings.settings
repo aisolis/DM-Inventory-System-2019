@@ -1,0 +1,102 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="DisermoConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=LAPTOP-12N297OH\SQLEXPRESS;Initial Catalog=Disermo;Integrated Security=True&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=LAPTOP-12N297OH\SQLEXPRESS;Initial Catalog=Disermo;Integrated Security=True</Value>
+    </Setting>
+    <Setting Name="ConfigPosicionamiento" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ConfigNombrePrograma" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Disermo Proyect</Value>
+    </Setting>
+    <Setting Name="NombreUsuario" Type="System.String" Scope="User">
+      <Value Profile="(Default)">USUARIO</Value>
+    </Setting>
+    <Setting Name="ConfigIVA" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.12</Value>
+    </Setting>
+    <Setting Name="ConfigTema" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ConfigValorQuetzal" Type="System.String" Scope="User">
+      <Value Profile="(Default)">7.5</Value>
+    </Setting>
+    <Setting Name="NotasInicio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ingresa nota</Value>
+    </Setting>
+    <Setting Name="code" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Disermo2ConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=DESKTOP-6JQE72N\SWORDS;Initial Catalog=Disermo2;Persist Security Info=True;User ID=DisermoUwU;Password=DisermoLogin&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=DESKTOP-6JQE72N\SWORDS;Initial Catalog=Disermo2;Persist Security Info=True;User ID=DisermoUwU;Password=DisermoLogin</Value>
+    </Setting>
+    <Setting Name="Valor" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DisermoConnectionString1" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=DESKTOP-6JQE72N\SWORDS;Initial Catalog=Disermo;Persist Security Info=True;User ID=DisermoUwU;Password=DisermoLogin&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=DESKTOP-6JQE72N\SWORDS;Initial Catalog=Disermo;Persist Security Info=True;User ID=DisermoUwU;Password=DisermoLogin</Value>
+    </Setting>
+    <Setting Name="DisermoConnectionString2" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=DESKTOP-9R7M7SC\SWORDS;Initial Catalog=Disermo;Persist Security Info=True;User ID=DisermoLogin;Password=12345&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=DESKTOP-9R7M7SC\SWORDS;Initial Catalog=Disermo;Persist Security Info=True;User ID=DisermoLogin;Password=12345</Value>
+    </Setting>
+    <Setting Name="conexionglobal" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=DESKTOP-21LHCT1;Initial Catalog=Disermo;Integrated Security=True</Value>
+    </Setting>
+    <Setting Name="errordb" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DisermoConnectionString3" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=LAPTOP-BIAFSCF5;Initial Catalog=Disermo;Persist Security Info=True;User ID=dmm;Password=12345&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=LAPTOP-BIAFSCF5;Initial Catalog=Disermo;Persist Security Info=True;User ID=dmm;Password=12345</Value>
+    </Setting>
+    <Setting Name="CargaConexDB" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CargaInternet" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CargaArchivos" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CargaRed" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ProgramVersion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">v2.5.4</Value>
+    </Setting>
+    <Setting Name="DisermoConnectionString4" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=TOCAY;Initial Catalog=Disermo;Integrated Security=True&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=TOCAY;Initial Catalog=Disermo;Integrated Security=True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
