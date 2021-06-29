@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-      <a href="https://imgbb.com/"><img src="https://i.ibb.co/1rGj5qJ/DISERMO.png" alt="DISERMO" border="0"></a>
+      <img src="https://i.ibb.co/1rGj5qJ/DISERMO.png" alt="DISERMO" border="0">
     
 <hr>
   <h3 align="center">DM-Inventory-System-2019</h3>
@@ -41,7 +41,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<div align="center"> 
+     <img src="https://i.ibb.co/jLQ0CtH/d.png" alt="d" border="0">   
+</div>
 
 The inventory management system created in 2019 for the company Disermo S.A as part of a language update of the previous program created in 2018 written in C # language, the intention of this project was to be presented at Expotec 2019 as a final project and in turn be handed over to the company for daily use.
 
